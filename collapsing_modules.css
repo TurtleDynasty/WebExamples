@@ -7,7 +7,9 @@
 }
 .box-title{
 	width: 748px;
-	margin: 0 auto 0 auto;
+	margin: 0;
+	border: 0;
+	padding: 0;
 
 	cursor: pointer;
 	background-color: cyan;
@@ -32,6 +34,6 @@ h1{
 	font-size: 2em;
 	color: white;
 	font-weight: bold;
-	margin: 0.5em 0.5em 0.5em 0.5em;
+	margin: 0 0.25em 0 0.25em;
 
 }
